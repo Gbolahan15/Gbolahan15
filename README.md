@@ -37,7 +37,7 @@ A CLI app to track daily expenses.
 ### 🎓 Student Management System
 A CLI system for managing student records using OOP.
 
-👉 https://github.com/Gbolahan15/student-management-system-cli-
+👉 https://github.com/Gbolahan15/student-management-system-cli
 
 ---
 
