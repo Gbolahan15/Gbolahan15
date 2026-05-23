@@ -41,6 +41,13 @@ A CLI system for managing student records using OOP.
 
 ---
 
+### 🏠 BidNest (Hostel Management System)
+A smart hostel management system where students can bid for available hostel spaces based on preferences and availability.
+
+👉 https://github.com/Gbolahan15/bidnest
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbolahan15&show_icons=true&theme=tokyonight)
