@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Gbolahan
 
-<!--
-**Gbolahan15/Gbolahan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | Python & Backend Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building simple but powerful applications using Python and learning how real-world systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently learning **Python & Backend Development**
+- 🧠 Interested in **Django, APIs, and Data Structures**
+- 🎯 Goal: Become a **Backend / Software Engineer**
+- 📚 Building real projects to improve my skills
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Django
+- Git & GitHub
+- MySQL, PostgreSQL
+- HTML, CSS, JavaScript, Bootstrap5
+
+---
+
+## 📂 Projects
+
+### 🧾 Expense Tracker
+A CLI app to track daily expenses.
+
+👉 https://github.com/Gbolahan15/expense-tracker
+
+---
+
+### 🎓 Student Management System
+A CLI system for managing student records using OOP.
+
+👉 https://github.com/Gbolahan15/student-management-system
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbolahan15&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Gbolahan15
+
+---
+
+⭐ Always learning. Always building.
