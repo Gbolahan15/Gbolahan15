@@ -22,10 +22,19 @@ I enjoy building simple but powerful applications using Python and learning how 
 - Git & GitHub
 - MySQL, PostgreSQL
 - HTML, CSS, JavaScript, Bootstrap5
+- Postman
 
 ---
 
 ## 📂 Projects
+
+### 🧾 Task Management System API
+
+A Django REST Framework backend API for managing tasks with authentication, categories, filtering, pagination, soft delete, analytics, and Swagger documentation.
+
+👉 https://github.com/Gbolahan15/task-management-system-api
+
+---
 
 ### 🧾 Expense Tracker
 A CLI app to track daily expenses.
