@@ -1,32 +1,67 @@
 # 👋 Hi, I'm Gbolahan
 
-### 💻 Aspiring Software Developer | Python & Backend Enthusiast
+### 💻 Aspiring Full-Stack Software Developer | Backend-Focused 
 
-I enjoy building simple but powerful applications using Python and learning how real-world systems work behind the scenes.
+I enjoy building practical, user-focused applications from the frontend to the backend and learning how real-world systems work behind the scenes.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Python & Backend Development**
-- 🧠 Interested in **Django, APIs, and Data Structures**
-- 🎯 Goal: Become a **Backend / Software Engineer**
-- 📚 Building real projects to improve my skills
+- 🔭 Currently building **full-stack web applications**
+- 🧠 Interested in **Python, Django, React, APIs, and Data Structures**
+- 🎯 Goal: Become a **Full-Stack Software Engineer** with strong backend expertise
+- 📚 Building real projects while learning system design, scalable architectures, and software engineering best practices
 
 ---
 
-## 🛠️ Tech Stack
-
+### Languages
 - Python
+- JavaScript
+- HTML
+- CSS
+- Basic knowledge of C, C++, and Java
+
+### Frontend
+- React
+- Vite
+- Bootstrap 5
+
+### Backend
 - Django
-- Git & GitHub
-- MySQL, PostgreSQL
-- HTML, CSS, JavaScript, Bootstrap5
+- Django REST Framework
+- REST APIs
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
 - Postman
 
 ---
 
+## 🌱 Currently Learning
+- Advanced Django & REST APIs
+- React ecosystem
+- System Design & Software Architecture
+- Data Structures & Algorithms
+- Software Engineering Best Practices
+
+
 ## 📂 Projects
+
+### 🏠 BidNest (Hostel Management System)
+A smart hostel management system where students can bid for available hostel spaces based on preferences and availability.
+
+👉 https://github.com/Gbolahan15/bidnest
+Frontend deployed on Vercel: https://bidnest-hostel.vercel.app/
+Backend deployed on Render: https://bidnest-n8qu.onrender.com/api/hostels/
+
+
+---
 
 ### 🧾 Task Management System API
 
@@ -50,12 +85,7 @@ A CLI system for managing student records using OOP.
 
 ---
 
-### 🏠 BidNest (Hostel Management System)
-A smart hostel management system where students can bid for available hostel spaces based on preferences and availability.
 
-👉 https://github.com/Gbolahan15/bidnest
-
----
 
 ## 📈 GitHub Stats
 
@@ -65,7 +95,12 @@ A smart hostel management system where students can bid for available hostel spa
 
 ## 📫 Contact
 
+- Email: adesinagbolahan15@gmail.com
 - GitHub: https://github.com/Gbolahan15
+- Twitter: https://x.com/gbolahandavid_
+- Facebook: https://www.facebook.com/profile.php?id=100067806623017
+- LinkedIn: https://www.linkedin.com/in/gbolahan-adesina-813853380
+- Phone Number: +234-702-651-0600
 
 ---
 
