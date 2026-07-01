@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gbolahan
 
-### 💻 Aspiring Full-Stack Software Developer | Backend-Focused 
+### Backend Developer | Building Full-Stack Web Applications
 
 I enjoy building practical, user-focused applications from the frontend to the backend and learning how real-world systems work behind the scenes.
 
@@ -15,31 +15,19 @@ I enjoy building practical, user-focused applications from the frontend to the b
 
 ---
 
-### Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-- Basic knowledge of C, C++, and Java
+## 🛠️ Tech Stack
 
-### Frontend
-- React
-- Vite
-- Bootstrap 5
+**Languages:** Python, JavaScript, HTML, CSS
 
-### Backend
-- Django
-- Django REST Framework
-- REST APIs
+**Frontend:** React, Vite, Bootstrap
 
-### Databases
-- MySQL
-- PostgreSQL
+**Backend:** Django, Django REST Framework, REST APIs
 
-### Tools
-- Git
-- GitHub
-- Postman
+**Databases:** PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, Postman
+
+**Familiar with:** C, C++, Java
 
 ---
 
@@ -50,16 +38,16 @@ I enjoy building practical, user-focused applications from the frontend to the b
 - Data Structures & Algorithms
 - Software Engineering Best Practices
 
+---
 
 ## 📂 Projects
 
 ### 🏠 BidNest (Hostel Management System)
 A smart hostel management system where students can bid for available hostel spaces based on preferences and availability.
 
-👉 https://github.com/Gbolahan15/bidnest
-Frontend deployed on Vercel: https://bidnest-hostel.vercel.app/
-Backend deployed on Render: https://bidnest-n8qu.onrender.com/api/hostels/
-
+- 📂 **Repository:** [BidNest](https://github.com/Gbolahan15/bidnest)
+- 🌐 **Live Frontend:** [Vercel](https://bidnest-hostel.vercel.app/)
+- ⚙️ **Backend API:** [Render](https://bidnest-n8qu.onrender.com/api/hostels/)
 
 ---
 
@@ -67,21 +55,21 @@ Backend deployed on Render: https://bidnest-n8qu.onrender.com/api/hostels/
 
 A Django REST Framework backend API for managing tasks with authentication, categories, filtering, pagination, soft delete, analytics, and Swagger documentation.
 
-👉 https://github.com/Gbolahan15/task-management-system-api
+- 📂 **Repository:** [Task Management System API](https://github.com/Gbolahan15/task-management-system-api)
 
 ---
 
 ### 🧾 Expense Tracker
 A CLI app to track daily expenses.
 
-👉 https://github.com/Gbolahan15/expense-tracker
+- 📂 **Repository:** [Expense Tracker](https://github.com/Gbolahan15/expense-tracker)
 
 ---
 
 ### 🎓 Student Management System
 A CLI system for managing student records using OOP.
 
-👉 https://github.com/Gbolahan15/student-management-system-cli
+- 📂 **Repository:** [Student Management System](https://github.com/Gbolahan15/student-management-system-cli)
 
 ---
 
@@ -89,18 +77,18 @@ A CLI system for managing student records using OOP.
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbolahan15&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gbolahan15&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-- Email: adesinagbolahan15@gmail.com
-- GitHub: https://github.com/Gbolahan15
-- Twitter: https://x.com/gbolahandavid_
-- Facebook: https://www.facebook.com/profile.php?id=100067806623017
-- LinkedIn: https://www.linkedin.com/in/gbolahan-adesina-813853380
-- Phone Number: +234-702-651-0600
+- 📧 Email: adesinagbolahan15@gmail.com
+- 💻 GitHub: [Gbolahan15](https://github.com/Gbolahan15)
+- 🐦 X (Twitter): [@gbolahandavid_](https://x.com/gbolahandavid_)
+- 💼 LinkedIn: [Gbolahan Adesina](https://www.linkedin.com/in/gbolahan-adesina-813853380)
+- 📘 Facebook: [Profile](https://www.facebook.com/profile.php?id=100067806623017)
+- 📞 Phone Number: +234-702-651-0600
 
 ---
 
